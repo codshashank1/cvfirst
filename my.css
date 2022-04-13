@@ -1,0 +1,19 @@
+* {
+  font-family: "Abril Fatface", cursive;
+  font-weight: 100;
+  /* background: #03001e;  */
+  background: #00006f; /* fallback for old browsers */
+
+  color: rgba(30, 232, 202, 0.885);
+  font-size: 28px;
+}
+
+.new {
+  word-spacing: 4px;
+  font-size: 28px;
+  color: rgb(220, 0, 162);
+}
+.name {
+  font-size: 40px;
+  color: rgb(91, 242, 144);
+}
